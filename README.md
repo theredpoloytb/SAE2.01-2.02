@@ -39,7 +39,7 @@ Voici un aperçu de la simulation en action :
 | 🖼️ Interface graphique               | ⏳ En cours |
 | 🧩 Moteur de simulation              | ⏳ En cours |
 | 📦 Création JAR exécutable           | ⏳ En cours |
-| 📊 Rapport final + README            | ⏳ En cours |
+| 📊 README            | ✔️ Terminé  |
 
 ---
 
